@@ -1,3 +1,5 @@
+![OsLite](https://github.com/MagoDaRedstone/OsLite/blob/main/OsLite.png)
+
 OsLite: Sistema Operacional no YouTube
 
 Este projeto, chamado OsLite, é um sistema operacional educacional e leve desenvolvido para rodar diretamente dentro do player de vídeo do YouTube, usando a extensão Enhancer for YouTube do Firefox.
