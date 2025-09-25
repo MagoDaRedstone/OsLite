@@ -1,10 +1,10 @@
-![OsLite](https://github.com/MagoDaRedstone/OsLite/blob/main/OsLite.png)
-
 OsLite: Sistema Operacional no YouTube
 
 Este projeto, chamado OsLite, é um sistema operacional educacional e leve desenvolvido para rodar diretamente dentro do player de vídeo do YouTube, usando a extensão Enhancer for YouTube do Firefox.
 
 Aviso: Este projeto tem fins estritamente educacionais e de demonstração. Ele foi criado para explorar as capacidades de manipulação de páginas web com JavaScript. Ele não tem a intenção de ser uma ferramenta para hackear ou causar danos.
+
+La em baixo tem uma imagem como é o sistema OsLite.
 
 Como o Projeto Funciona
 
@@ -75,3 +75,5 @@ O arquivo System.js está bem comentado para facilitar o entendimento. As princi
     Doom 3D e Minecraft 3D: Demonstrações dos jogos, onde o Doom usa renderização 2D em um loop de raycasting e o Minecraft usa WebGL para renderizar cubos 3D de verdade.
 
 Sinta-se à vontade para explorar e modificar o código para fins de aprendizado!
+
+![OsLite](https://github.com/MagoDaRedstone/OsLite/blob/main/OsLite.png)
